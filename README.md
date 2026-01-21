@@ -30,7 +30,7 @@ Tableau Desktop / Tableau Public
 
 COVID-19 Global Dataset (Cases, Deaths, Population, Vaccinations)
 
-##🔗 Dashboard Link:
+## 🔗 Dashboard Link:
 https://public.tableau.com/app/profile/bharat.shukla7949/viz/CovidDashboard_17688300911110/Dashboard1?publish=yes
 
 <img width="1918" height="993" alt="Covid19 Analysis Dashboard" src="https://github.com/user-attachments/assets/d3328082-8dc6-414b-b236-df75be8183c9" />
