@@ -26,6 +26,9 @@ Tableau Desktop / Tableau Public
 🧮 Optimized SQL queries for accurate aggregation and performance
 📉 Identification of countries with highest population infection percentages
 
+Data Source
+COVID-19 Global Dataset (Cases, Deaths, Population, Vaccinations)
+
 ##🔗 Dashboard Link:
 https://public.tableau.com/app/profile/bharat.shukla7949/viz/CovidDashboard_17688300911110/Dashboard1?publish=yes
 
