@@ -16,7 +16,7 @@ Tools
 SQL Database
 Tableau Desktop / Tableau Public
 
-##Features / Highlights
+##Features
 
 📊 Continent-wise analysis of total COVID-19 cases and deaths
 🌍 Country-level infection rate calculation based on population
@@ -26,7 +26,8 @@ Tableau Desktop / Tableau Public
 🧮 Optimized SQL queries for accurate aggregation and performance
 📉 Identification of countries with highest population infection percentages
 
-Data Source
+##Data Source
+
 COVID-19 Global Dataset (Cases, Deaths, Population, Vaccinations)
 
 ##🔗 Dashboard Link:
