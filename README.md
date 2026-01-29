@@ -14,7 +14,7 @@ Tableau Public (Dashboards, KPIs, Filters, Charts)
 
 Tools
 SQL Database
-Tableau Desktop / Tableau Public
+Tableau Desktop / Tableau Public / Excel
 
 ## Features
 
